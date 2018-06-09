@@ -1,0 +1,24 @@
+/*
+Theme Name: Bpost - Beautiful Blog Post Template
+Theme URI: https://www.orbitthemes.com
+Author: Sandeep Prasad Bhatt
+Author URI: http://www.sandeepbhatt.com.np
+Description: Bpost - Beautiful Blog Post Template
+Create date: April 9, 2018
+Version: 1.0
+License: Commercial, All rights reserved - orbitthemes.com
+Tags: Responsive Bootstrap 4 template , bootstrap 4 starter template, bootstrap4 template, simple template
+Text Domain: orbitthemes.com
+*/
+
+#main {
+    background: $light;
+    .profile-pic {
+        text-align: center;
+        border-radius: 50%;
+        i {
+            padding: 1rem 1.2rem;
+            color: #aaa;
+        }
+    }
+}
